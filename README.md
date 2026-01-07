@@ -20,4 +20,7 @@ It's a showcase of problem-solving skills, algorithmic thinking, and coding prof
 
 ---
 
-## 📂 Folder Structure
+## 📈 Stats
+![Python](https://img.shields.io/badge/python-3.10-blue?style=for-the-badge&logo=python)
+![Java](https://img.shields.io/badge/java-17-red?style=for-the-badge&logo=java)
+![JavaScript](https://img.shields.io/badge/javascript-ES6-yellow?style=for-the-badge&logo=javascript)
